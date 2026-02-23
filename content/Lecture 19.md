@@ -12,7 +12,7 @@ Primary steelmaking is an **oxidizing refining process** designed to drive these
 
 The Carbon-Oxygen ($C-O$) reaction is the most dominant and fundamental reaction in steelmaking. When oxygen is injected (via top lance or bottom tuyeres), several reaction pathways are thermodynamically possible at $1600^\circ\text{C}$ and $1\text{ atm}$ total pressure.
 
-![[Pasted image 20260221023226.png]]
+![img](MSE306_Images/Pasted-image-20260221023226.png)
 _Double Tick are Prominent once_
 ### **A. Possible Reaction Pathways**
 
@@ -167,7 +167,7 @@ $$\frac{(wt\ \%MnO)}{[wt\ \%Mn]} = \frac{\{P_{CO}\}}{\gamma_{MnO} \cdot K_{eq,2}
  $\Delta G= -RTlnK_{eq,2}$, fixing temp and pressure 
  #### **Board Graph: Manganese Partition vs. FeO and Basicity (V)**
 
-![[Pasted image 20260221045725.png]]
+![img](MSE306_Images/Pasted-image-20260221045725.png)
 
 ```
        (%MnO)
@@ -202,7 +202,7 @@ In Ironmaking (Blast Furnace), desulfurization is highly effective due to the re
 
 - **Ironmaking Desulfurization:** $[FeS] + (CaO) + [C] \rightarrow [Fe]+(CaS) + CO(g)$ (Carbon removes the oxygen, driving the reaction forward).
     
-![[Pasted image 20260221052831.png]]
+![img](MSE306_Images/Pasted-image-20260221052831.png)
 ### **Why Desulfurization Fails in the BOF**
 
 In the Basic Oxygen Furnace, the environment is intensely **oxidizing**.

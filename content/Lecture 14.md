@@ -381,7 +381,7 @@ The overall slag-metal reaction can be understood by combining a gas-slag reacti
 	      
     - **Sulfide Capacity ($C_s$):** Defines the slag's intrinsic ability to absorb sulphur. It is a function of slag basicity, temperature, and the activity coefficient of sulfide ions in the slag. (Unit = weight percentage). Higher temperatures slightly increase $C_s$.
       
-    - ![[Pasted image 20260220025040.png]]
+    - ![img](MSE306_Images/Pasted-image-20260220025040.png)
       $$C_s = [\frac{K_1(a_O^{2-})}{(f_S^{2-})}] $$
         
     - **Sulphur Partition Coefficient ($L_s$):** The measure of efficiency.

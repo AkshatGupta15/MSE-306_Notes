@@ -11,7 +11,7 @@ After covering Ironmaking, the course shifts to **Steelmaking** (Primary and Sec
 - **Superheat:** The extra heat generated provides a "superheat" (defined as the excess temperature above the liquidus temperature, typically $\sim70-80^\circ\text{C}$). This thermal buffer is critical as it compensates for the heat losses that will occur during subsequent secondary steelmaking processes.
     
 
-![[Pasted image 20260221022300.png]]
+![img](MSE306_Images/Pasted-image-20260221022300.png)
 ---
 
 ## **2. Historical Evolution of Steelmaking Processes**
@@ -104,7 +104,7 @@ If oxygen is blown into the hot metal, the thermodynamic affinity dictates the o
     
 3. **Iron ($Fe$)** oxidizes to $FeO$. Because the environment is so highly oxidizing, a significant portion of Iron is lost. _Unlike the Blast Furnace slag which contains $<0.1\% FeO$, BOF slag contains $15\% - 25\% FeO$._
 
-![[Pasted image 20260221022116.png]]
+![img](MSE306_Images/Pasted-image-20260221022116.png)
 
 ---
 
@@ -217,7 +217,7 @@ Here are the detailed, exhaustive notes extracted from the lecture transcript, c
 ![Bessemer converter, AI generated](https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcT333nLytZYB8HjWVukgsV-jGkMCGo_2RSBF235Uw7y_j91KzH9NjUmhQPcS4knYI3Z2Na1CrlH4dc0hyFmVL-YmLGBWzElZBHB3Vafc-tWh4WQYi8)
 
 
-![[Pasted image 20260220235617.png]]
+![img](MSE306_Images/Pasted-image-20260220235617.png)
 
 - **The Bessemer Process (~1850-1860):** Sir Henry Bessemer commercialized the first mass-production pneumatic steelmaking process.
     
@@ -365,7 +365,7 @@ $$[\%C] \times [\%O] = \text{Constant}$$
 _At $1600^\circ\text{C}$, thermodynamic handbooks (using standard free energy $\Delta G^\circ = -RT \ln K$) define this constant as:_
 
 $$[\%C] \times [\%O] = 2.25 \times 10^{-3}$$
-![[Pasted image 20260221021941.png]]
+![img](MSE306_Images/Pasted-image-20260221021941.png)
 
 **Plant Validation:**
 

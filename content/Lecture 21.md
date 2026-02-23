@@ -34,7 +34,7 @@ At steelmaking temperatures ($\sim 1600^\circ\text{C}$), chemical reaction rates
     
 
 **Rate Expressions:**
-![[Pasted image 20260222202418.png]]
+![img](MSE306_Images/Pasted-image-20260222202418.png)
 
 - **Chemical Rate:** $\dot{n}_c = k [C]^n$
     
@@ -91,7 +91,7 @@ Basicity is a critical chemical parameter dictating the slag's capacity to absor
     
     $$V_{weighted} = \frac{\text{wt\% } CaO + 1.4(\text{wt\% } MgO)}{\text{wt\% } SiO_2 + 0.4(\text{wt\% } P_2O_5)}$$
     
-![[Pasted image 20260222202557.png]]
+![img](MSE306_Images/Pasted-image-20260222202557.png)
 ### B. Silicate Network and Slag Fluidity
 
 - **Structure:** Pure silica ($SiO_2$) forms a rigid, continuous 3D network of $SiO_4^{4-}$ tetrahedra sharing oxygen bonds.
@@ -100,7 +100,7 @@ Basicity is a critical chemical parameter dictating the slag's capacity to absor
     
 - **Fluidity Threshold:** When the ratio of $CaO/SiO_2 \approx 2$, the silicate network is completely fragmented into discrete monomers. The slag becomes highly fluid.
     
-![[Pasted image 20260222202457.png]]
+![img](MSE306_Images/Pasted-image-20260222202457.png)
 ### _Physical Interpretation: Kinetic Slag Properties_
 
 Thermodynamics only tells you if a reaction _can_ happen. Kinetics dictates if the slag physically _allows_ it.
@@ -109,7 +109,7 @@ Thermodynamics only tells you if a reaction _can_ happen. Kinetics dictates if t
     
 - **Melting Point:** If the slag is pasty (contains undissolved solids), mass transfer crashes. Operating in a fully liquid regime is critical.
     
-![[Pasted image 20260222202528.png]]
+![img](MSE306_Images/Pasted-image-20260222202528.png)
 ### C. Chemical Potential and Ternary Phase Diagrams
 
 - **Oxygen Potential:** The oxidizing power of the slag is dictated by $(FeO)$ and represented by the chemical potential of oxygen ($\mu_{O_2} = RT \ln P_{O_2}$).

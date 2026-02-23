@@ -294,7 +294,7 @@ Because it is a low-temperature process (compared to a Blast Furnace raceway), a
     
 - **Solution Loss (Boudouard) Reaction:** The $CO_2$ produced can react with Carbon to regenerate $CO$ ($CO_2 + C \rightarrow 2CO$).
     
-![[Pasted image 20260220172909.png]]
+![img](MSE306_Images/Pasted-image-20260220172909.png)
 ### Operational Challenges: Accretion (Ring Formation)
 
 - **The Problem:** If the temperature gets slightly too high, "incipient fusion" occurs. Iron oxides and lime combine with silica to form a semi-solid, sticky mass.
@@ -379,7 +379,7 @@ Natural gas cannot be used directly; it must be "reformed" into a usable reducin
 
 ### Reactor Design and Operation
 
-![[Pasted image 20260220180433.png]]
+![img](MSE306_Images/Pasted-image-20260220180433.png)
 
 - **The Shaft:** The Midrex reactor is a vertical Shaft Furnace (similar to the upper stack of a Blast Furnace).
     
@@ -445,7 +445,7 @@ The COREX process separates the two main functions of a Blast Furnace into two d
   This reducing gas reacts with descending, pre-reduced iron mass, exchanging heat & mass btw phases facilitating production of carbon-rich liq iron. 
   Hot reducing gas exiting melter-gasifier contains (80-85% by vol) CO 
     
-![[Pasted image 20260220182934.png]]
+![img](MSE306_Images/Pasted-image-20260220182934.png)
 ### Operation of the Reduction Shaft (Top Unit)
 
 - **Inputs:** Iron-bearing materials (Sinters, Pellets, Lump Ore).

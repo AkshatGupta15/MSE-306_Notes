@@ -72,7 +72,7 @@ _Instructor Note: Contrast this with Desulfurization (De-S), which requires a hi
 
 Just as basic slags possess a "Sulfide Capacity" ($C_S$), they also possess a "Phosphate Capacity" ($C_{PO_4^{3-}}$), which quantifies the slag's intrinsic ability to absorb phosphorus.
 
-![[Pasted image 20260221150504.png]]
+![img](MSE306_Images/Pasted-image-20260221150504.png)
 **Empirical Equation for $L_P$:**
 
 Researchers have established a quantitative relationship for the partition coefficient as a function of temperature, basicity, and oxygen:
@@ -89,7 +89,7 @@ _(Note: Calcium fluoride ($CaF_2$) is historically used to fluidize slags, but i
 
 **Graph 1: Effect of Temperature and Basicity on $L_P$**
 
-![[Pasted image 20260221150809.png]]
+![img](MSE306_Images/Pasted-image-20260221150809.png)
 
 ```
   log(L_P)
@@ -108,7 +108,7 @@ _Physical Interpretation:_ For any given basicity ($V_O$ or $B_O$), the partitio
 
 **Graph 2: Effect of $(FeO)$ Content on Dephosphorization**
 
-![[Pasted image 20260221150830.png]]
+![img](MSE306_Images/Pasted-image-20260221150830.png)
 
 ```
 (wt% P2O5 / wt% [P])
@@ -141,7 +141,7 @@ The basicity of the slag doesn't magically reach $V = 4$; lime ($CaO$) must phys
 When the solid $CaO$ reacts with the liquid iron-silicate slag, an intermediate chemical reaction occurs at the solid-liquid interface:
 
 $$\text{Solid } CaO + \text{Liquid } (FeO \cdot SiO_2) \rightarrow \text{Liquid Calcium Wüstite} (CaO.FeO)+ \text{Solid Dicalcium Silicate }(Ca_2SiO_4)$$
-![[Pasted image 20260221152623.png]]
+![img](MSE306_Images/Pasted-image-20260221152623.png)
 _Important Remarks:_ Dicalcium silicate precipitates as a fine solid powder exactly at the boundary of the lime particle. This solid precipitate completely coats the unreacted lime particle with an **impervious layer**.
 
 Because the $CaO$ is trapped inside a solid shell, it can no longer dissolve into the bulk slag. Consequently, the bulk slag basicity stops increasing. This is why De-P drops at very high initial $(FeO)$—the $CaO$ cannot dissolve to capture the phosphorus!

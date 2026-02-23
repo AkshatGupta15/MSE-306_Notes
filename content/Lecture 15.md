@@ -366,7 +366,7 @@ Despite the Blast Furnace producing >90% of the world's liquid hot metal, altern
     - _Solution:_ **Direct Reduced Iron (DRI)** or "sponge iron" (solid, partially reduced iron ore) can be used as an effective, pure coolant in steelmaking converters when scrap is unavailable.
         
 
-![[Pasted image 20260220163214.png]]
+![img](MSE306_Images/Pasted-image-20260220163214.png)
 ### Classification of Alternative Ironmaking Processes
 
 AIM processes are classified by the **state of the product** (Solid vs. Liquid) and the **type of reductant** (Gas vs. Coal).

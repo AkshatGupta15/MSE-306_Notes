@@ -200,7 +200,7 @@ The COREX process utilizes a two-stage reactor system:
         
     - _Why cool it?_ If uncooled, the gas would transfer too much heat to the descending solid burden in the shaft, causing premature melting/fusion (sticking) of the iron ore before it is properly reduced.
         
-![[Pasted image 20260220225455.png]]
+![img](MSE306_Images/Pasted-image-20260220225455.png)
 ### The Value of COREX Off-Gas (Spent Gas)
 
 The spent gas exiting the top of the Shaft Furnace is a highly valuable byproduct.
@@ -250,7 +250,7 @@ The professor breaks down the raw material and production costs to explain the e
 
 ---
 
-![[Pasted image 20260220224953.png]]
+![img](MSE306_Images/Pasted-image-20260220224953.png)
 ## 2. The Flow of Materials in Modern Steel Plants
 
 
@@ -322,7 +322,7 @@ Primary steelmaking (in a BOF) is an **Autogenous** process, meaning it requires
 
 ### Heat Balance
 
-![[Pasted image 20260220232605.png]]
+![img](MSE306_Images/Pasted-image-20260220232605.png)
 - **Heat Inputs (Total ~1500 MJ / ton of crude steel):**
     
     1. **Sensible Heat of Hot Metal (50-55%):** The hot metal enters at $1400^{\circ}C$.
