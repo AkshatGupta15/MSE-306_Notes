@@ -6,6 +6,8 @@ The continuous casting process involves several integral mechanical and control 
 
 **Essential Components:**
 
+![img](MSE306_Images/Pasted-image-20260428194655.png)
+
 1. **Mold:** A water-cooled copper mold where initial solidification occurs.
     
 2. **Mold Oscillation System:** Moves the mold in a specific up-and-down trajectory along the curvature of the strand to prevent the solidifying steel from sticking to the mold walls.
@@ -69,6 +71,8 @@ Continuous casters have distinct cooling zones with entirely different heat extr
 
 **1. Primary Cooling Zone (The Mold):**
 
+![img](MSE306_Images/Pasted-image-20260428195128.png)
+
 - Extracts superheat and forms the initial crust.
     
 - Heat transfer is relatively _weak_ here due to the thermal resistance of the mold powder film and the air gap caused by steel shrinkage.
@@ -93,6 +97,7 @@ Continuous casters have distinct cooling zones with entirely different heat extr
 
 ---
 
+![img](MSE306_Images/Pasted-image-20260428194833.png)
 ## 3. Roles of Mold Powder and Mold Taper
 
 The gap between the water-cooled copper mold ($\approx 800-900^\circ\text{C}$) and the solidified casting surface ($\approx 1400^\circ\text{C}$) is filled with mold powder .
@@ -105,7 +110,7 @@ The gap between the water-cooled copper mold ($\approx 800-900^\circ\text{C}$) a
 As the steel solidifies and descends, it shrinks. To prevent the thermal gap from widening (which would drastically reduce heat extraction), the mold is deliberately designed with a **taper** . The taper angle must perfectly match the specific shrinkage profile of the steel grade being cast.
 
 ---
-
+![img](MSE306_Images/Pasted-image-20260428195220.png)
 ## 4. Bloom vs. Slab Casters
 
 The geometry of the casting heavily influences fluid flow and heat transfer inside the mold.
@@ -115,6 +120,8 @@ The geometry of the casting heavily influences fluid flow and heat transfer insi
 - **Slabs:** Used for flat products (auto bodies, fridge panels). They possess a large width-to-thickness ratio (e.g., 200 mm thick but 1200 mm to 1600 mm wide).
     
 
+
+![img](MSE306_Images/Pasted-image-20260428195338.png)
 **SEN Design for Slab Casters:**
 
 In a slab mold, the distance from the center to the wide face is 6 to 8 times greater than to the narrow face . A straight nozzle would cause localized freezing at the wide edges. Therefore, the SEN is designed with **two bifurcated ports** directing the molten steel outward towards the narrow faces, creating a characteristic **twin-roll flow pattern**.
@@ -143,6 +150,7 @@ Running a continuous casting machine on a sustained, defect-free basis requires 
 
 Superheat and casting speed share an inverse relationship. If a ladle arrives from the secondary metallurgy station with too high a superheat, the casting speed must be immediately lowered (which alters $t_{dwell}$ and spray routines) .
 
+![img](MSE306_Images/Pasted-image-20260428195435.png)
 **Common Defects in CC Products:**
 
 - **Cracks (Corner, Longitudinal, Transverse):** Originate from faulty mold taper, incorrect powder thermal resistance, or rapid 2D heat extraction at the corners of the mold .
@@ -163,8 +171,11 @@ Depending on the casting geometry, we use magnetic fields to either artificially
 - **Electromagnetic Braking (EMBR):** Used in slab and strip casters. Because the throughput ($Q$) is massive and the mold dimensions are tight, the resulting jet velocities are dangerously high, threatening violent meniscus disturbance. EMBR uses strong magnetic fields to dampen and slow the internal fluid velocities without reducing the plant's overall volumetric throughput.
     
 - **Electromagnetic Stirring (EMS):** Used in bloom and billet casters. Here, flow rates are naturally lower, which can result in poor mixing and long columnar crystal growth . EMS applies magnetic forces to intentionally stir the liquid core, homogenizing the temperature profile and breaking up the crystals.
-  
-  
+
+
+![img](MSE306_Images/Pasted-image-20260428195526.png)
+
+![img](MSE306_Images/Pasted-image-20260428195554.png)
 # Audio v2:
 
 ### 1. Essential Components of a Continuous Casting Machine

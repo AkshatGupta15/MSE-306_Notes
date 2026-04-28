@@ -60,7 +60,7 @@ The **Hot Top** is utilized to maintain a pool of liquid steel at the top of the
     
 - **Rimming Ingot**: [O] highest 
     
-
+![img](MSE306_Images/Pasted-image-20260428181241.png)
 ### Conceptual Explanation
 
 - **Killed Steel**: Deoxidized extensively, typically with Aluminum, leaving negligible dissolved oxygen (e.g., ~10 ppm)  Because there is no carbon-oxygen gas evolution to offset volumetric shrinkage, a deep primary pipe forms at the top (unless a hot top is used).
@@ -111,7 +111,7 @@ The **Hot Top** is utilized to maintain a pool of liquid steel at the top of the
             
         - **Positive Segregation**: Found at the upper parts. Impure, solute-rich liquid is lighter and naturally rises.
             
-
+	![img](MSE306_Images/Pasted-image-20260428193348.png)
 ---
 
 ## 4. Continuous Casting of Steel
@@ -121,6 +121,8 @@ The **Hot Top** is utilized to maintain a pool of liquid steel at the top of the
 Continuous casting bypassed ingot casting largely due to the advent of the BOF (Basic Oxygen Furnace) . Ingot casting is a batch process that simply cannot match the massive turnover rates of a BOF. Furthermore, rolling massive 10-ton ingots into usable sheets is extremely energy-intensive. Switching to continuous casting saves between **200 to 500 Mega Joules per ton of steel** by producing "near net shapes" that require minimal subsequent hot working
 
 ### Board Work: Sections Produced
+
+![img](MSE306_Images/Pasted-image-20260428194115.png)
 
 1. **Billets**: Square cross-section (e.g., $100\text{ mm} \times 100\text{ mm}$) .
     
@@ -135,7 +137,9 @@ Continuous casting bypassed ingot casting largely due to the advent of the BOF (
 
 ### Board Work: Continuous Casting Setup
 
-Plaintext
+
+
+![img](MSE306_Images/Pasted-image-20260428194420.png)
 
 ```
 [Ladle]

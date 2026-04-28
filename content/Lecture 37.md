@@ -2,6 +2,7 @@
 
 ## 1. Refractories in Steelmaking
 
+![img](MSE306_Images/Pasted-image-20260428195639.png)
 **Conceptual Explanation**
 
 The steelmaking industry operates under a core slogan: _"To produce the highest quality of steel, you require the highest quality of refractories"_ . Refractories are consumable materials that undergo erosion and degradation over time. Because the absolute best refractories are prohibitively expensive, steelmakers must constantly strike a compromise between refractory cost and operational performance.
@@ -31,6 +32,8 @@ Refractory consumption per ton of steel is a critical parameter that dictates ov
 
 In basic steelmaking operations, acidic refractories are heavily avoided. Refractories are divided into two main categories based on their manufacturing process :
 
+![img](MSE306_Images/Pasted-image-20260428195709.png)
+
 > ### **Board Work: Products & Raw Materials**
 > 
 > **Types of Refractories:**
@@ -53,6 +56,7 @@ In basic steelmaking operations, acidic refractories are heavily avoided. Refrac
 > - **Dolomite** _(MgO)_ > * **Carbon** > * **Zirconia** > * **Chromite sand**
 >     
 
+
 **Important Remarks / Instructor Notes:**
 
 - **Material Specificity:** Zirconia is specifically used for tundish nozzles due to its high erosion resistance, while Chromite sand is strictly utilized as a filler for tap holes and well blocks .
@@ -63,6 +67,8 @@ In basic steelmaking operations, acidic refractories are heavily avoided. Refrac
 ### The Problem with Carbon in Refractories (Alumina Clogging)
 
 Carbon is traditionally mixed into refractories to improve non-wettability (preventing liquid steel from adhering to the refractory). However, the presence of carbon initiates detrimental high-temperature chemical reactions within the refractory itself .
+
+![img](MSE306_Images/Pasted-image-20260428195749.png)
 
 > ### **Board Work & Mechanism: Alumina Deposition in SEN**
 > 
@@ -114,6 +120,8 @@ Modern refractories are being embedded with sensors (e.g., RFIDs). When refracto
 
 The steel industry is under immense global pressure to reduce its carbon footprint. The primary generators of direct CO₂ emissions in an integrated steel plant are the **Blast Furnace (BF)**, the **Sinter Plant**, and the **Coke Ovens** . Coke acts as both the primary heat source (fuel) and the chemical reductant.
 
+![img](MSE306_Images/Pasted-image-20260428195841.png)
+
 > ### **Board Work: CO₂ Sources & Coke Rate Target**
 > 
 > - BF
@@ -144,6 +152,8 @@ Reducing the coke rate to the theoretical minimum (~350 kg/thm) requires strict 
     
 
 ---
+
+![img](MSE306_Images/Pasted-image-20260428200014.png)
 
 ## 3. Iron and Steelmaking in India
 
