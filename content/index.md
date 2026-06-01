@@ -3,6 +3,7 @@
 Welcome 👋  
 Select a lecture below.
 
+
 ## Lectures
 - [[Lecture 01]]
 - [[Lecture 02]]
@@ -25,3 +26,23 @@ Select a lecture below.
 - [[Lecture 19]]
 - [[Lecture 20]]
 - [[Lecture 21]]
+- [[Lecture 22]]
+- [[Lecture 23]]
+- [[Lecture 24]]
+- [[Lecture 25]]
+- [[Lecture 26]]
+- [[Lecture 27]]
+- [[Lecture 28]]
+- [[Lecture 29]]
+- [[Lecture 30]]
+- [[Lecture 31]]
+- [[Lecture 32]]
+- [[Lecture 33]]
+- [[Lecture 34]]
+- [[Lecture 35]]
+- [[Lecture 36]]
+- [[Lecture 37]]
+
+
+
+[Follow on Github :)](https://github.com/AkshatGupta15)
